@@ -1,0 +1,2 @@
+# .github
+Trust through verification
