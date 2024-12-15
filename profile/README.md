@@ -1,2 +1,2 @@
-## Authify
+# Authify
 Trust through verification
